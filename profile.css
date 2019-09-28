@@ -94,8 +94,8 @@ ul li:hover a {
 .text_column {
 	width: 95%;
 	text-align: justify;
-	font-weight: normal;
-	font-size: 25px;
+	font-weight: bold;
+	font-size: 20px;
 	line-height: 25px;
 	float: left;
 	padding-left: 20px;
@@ -113,13 +113,16 @@ ul li:hover a {
 	margin-top: 0px;
 }
 .hidden {
-	display: contents;
+	color: #FF5349;
+	font-weight: bolder;
+	font-size: 20px;
+	display: inline-block;
 }
 .button {
 	width: 200px;
 	margin-top: 40px;
 	margin-right: auto;
-	margin-bottom: auto;
+	margin-bottom: 20px;
 	margin-left: auto;
 	padding-top: 20px;
 	padding-right: 10px;
@@ -132,13 +135,13 @@ ul li:hover a {
 	font-weight: bold;
 	font-size: large;
 	letter-spacing: 2px;
-	border: 3px solid #FF5349;
-	color: #FF5349;
+	border: 3px solid #FF9999;
+	color: #FF9999;
 	transition: all 0.3s linear;
 }
 .button:hover {
-	background-color: #6DC7D0;
-	color: #FF5349;
+	background-color: #FF9999;
+	color: #FF9999;
 	cursor: pointer;
 }
 .copyright {

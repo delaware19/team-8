@@ -87,11 +87,12 @@ ul li:hover a {
 #myBar {
   width: 7.7%;
   margin-top: 20px;
-  height: 30px;
+  height: 35px;
   background-color: #ADD8E6;
   text-align: center; 
-  line-height: 30px; 
+  line-height: 35px; 
   font-weight: bolder;
+  font-size: 25px;
   color: black;
 }
 /* About Section */

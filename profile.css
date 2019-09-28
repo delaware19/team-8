@@ -81,6 +81,7 @@ ul li:hover a {
 /* Progress Bar */
 #myBar {
   width: 7.7%;
+  margin-top: 20px;
   height: 30px;
   background-color: #FF5349;
   text-align: center; 

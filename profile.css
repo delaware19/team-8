@@ -399,3 +399,24 @@ ul li:hover a {
 }
 #menu {
 }
+.button-holder{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	left: 15px;
+	top: 10px;
+	  margin: 0 2% 4% 0;
+  }
+  .btn{
+	  float: right;
+	  border-radius: 8px;
+	  color:#FFF;
+	  font-size: 17px;
+	  background: #FF5349;
+	  padding: 8px;
+	  text-decoration: none;
+  }
+  .btn:hover{
+	  background:#4EC0EB;
+	  text-decoration: none;
+  }

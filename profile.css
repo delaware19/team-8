@@ -78,23 +78,6 @@ ul li:hover a {
 	padding-top: 100px;
 	padding-bottom: 150px;
 }
-/* Progress Bar */
-#myProgress {
-  width: 100%;
-  background-color: #ADD8E6;
-}
-
-#myBar {
-  width: 7.7%;
-  margin-top: 20px;
-  height: 35px;
-  background-color: #ADD8E6;
-  text-align: center; 
-  line-height: 35px; 
-  font-weight: bolder;
-  font-size: 25px;
-  color: black;
-}
 /* About Section */
 .head {
 	width: 95%;
